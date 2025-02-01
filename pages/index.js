@@ -6,7 +6,9 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>🚀 MEMESOL - To the Moon! 🚀</title>
-        <meta name="description" content="MEMESOL - The meme token that's going to make you rich (maybe)!" />
+        <meta name="description" content="MEMESOL - The meme token that's going to make you rich (maybe)! Join the degen revolution on Solana!" />
+        <meta name="keywords" content="MEMESOL, meme token, solana, crypto, degen, pumpfun, moon, cryptocurrency" />
+        <meta name="author" content="The MEMESOL Team" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -28,14 +30,14 @@ export default function Home() {
           </div>
 
           <div className={`${styles.card} ${styles.rotate}`}>
-            <h2>💰 tokenomics (aka Numbers We Pulled Out of Our Ass)</h2>
+            <h2>💰 Tokenomics (aka Numbers We Pulled Out of Our Ass)</h2>
             <p>
               We have a total supply of... uh... a lot. Like, a REALLY big number. We're talking astronomical. We're not even sure how many zeros there are, but who cares? More zeros = more gains, right?
             </p>
             <ul>
-              <li><strong>Total Supply:</strong> 1000000000 </li>
-              <li><strong>Burn Rate:</strong> We burn coins when we feel like it. It's a vibe.</li>
-              <li><strong>Tax:</strong> No tax you idiot.</li>
+              <li><strong>Total Supply:</strong> INFINITE (probably)</li>
+              <li><strong>Burn Rate:</strong> We burn tokens when we feel like it. It's a vibe.</li>
+              <li><strong>Tax:</strong> There's a tax, but it's for the memes.</li>
             </ul>
           </div>
 
@@ -59,7 +61,7 @@ export default function Home() {
             </p>
             <p>
               <a href="https://pump.fun" target="_blank" rel="noopener noreferrer">
-                Go BUY you fucking degen!
+                Go to PumpFun!
               </a>
             </p>
           </div>
