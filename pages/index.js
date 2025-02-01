@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="description" content="MEMESOL - The meme token that's going to make you rich (maybe)! Join the degen revolution on Solana!" />
         <meta name="keywords" content="MEMESOL, meme token, solana, crypto, degen, pumpfun, moon, cryptocurrency" />
         <meta name="author" content="The MEMESOL Team" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiB2aWV3Qm94PSIwIDAgNTAwIDUwMCI+PGNpcmNsZSBjeD0iMjUwIiBjeT0iMjUwIiByPSIyNTAiIGZpbGw9IiNmZmYwMDAiLz48dGV4dCB4PSI1MCUiIHk9IjYwJSIgZm9udC1zaXplPSIyMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDb21pYyBTYW5zIE1TIiBmaWxsPSIjMDAwIj5ERUdFTjwvZGVnZW4+PC9zdmc+" />
       </Head>
 
       <main className={styles.main}>
