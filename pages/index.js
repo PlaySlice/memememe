@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <div className={`${styles.card} ${styles.wiggle}`}>
-            <h2>🤔 WTF is [Your Token Name]?</h2>
+            <h2>🤔 WTF is MEMESOL?</h2>
             <p>
               MEMESOL is the token that will either make you a millionaire or leave you crying in a corner. It's a gamble, a meme, a lifestyle. We're not sure what it is either, but we're here for it!
             </p>
@@ -55,7 +55,7 @@ export default function Home() {
           <div className={`${styles.card} ${styles.pulse}`}>
             <h2>🤝 How to Buy (aka Throw Your Money at the Screen)</h2>
             <p>
-              You can buy [Your Token Name] on PumpFun. Just throw your SOL at the screen and pray to the crypto gods!
+              You can buy MEMESOL on PumpFun. Just throw your SOL at the screen and pray to the crypto gods!
             </p>
             <p>
               <a href="https://pump.fun" target="_blank" rel="noopener noreferrer">
@@ -87,7 +87,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p>
-          Made with ❤️ by the [Your Token Name] Team (aka a bunch of apes with keyboards)
+          Made with ❤️ by the MEMESOL Team (aka a bunch of apes with keyboards)
         </p>
       </footer>
     </div>
